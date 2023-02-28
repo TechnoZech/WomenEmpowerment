@@ -56,3 +56,8 @@
     gap: 80px;
     padding-bottom: 100px;
 }
+
+.physicalSafety-youtube-container iframe{
+    padding: 10px;
+    border: #a83e92 solid 2px;
+}
