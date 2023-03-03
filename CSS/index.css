@@ -277,21 +277,22 @@
 .safety-plan .content .img-content #circle{
 	color: #c8a4cc;
 	font-size: 100px;
+	margin-right: -100px;
+	margin-top: -10px;
 	
-}
-.safety-plan .content .img-content #apo1{
-	color: #E5C1F9;
-	font-size: 80px;
-	margin-right: -60px;
-	/* margin-top: -20px; */
-	
-}
-.safety-plan .content .img-content #apo2{
-	color: #9a4ba4;
-	margin-right: -60px;
-	font-size: 80px;
 }
 
+.safety-plan .content .img-content #apo1{
+	color: #9a4ba4;
+	margin-left: -80px;
+	font-size: 80px;
+}
+.safety-plan .content .img-content #apo2{
+	color: #E5C1F9;
+	font-size: 80px;
+	/* margin-right: -100px; */
+	/* margin-top: -20px; */	
+}
 
 
 .safety-plan .content .img-content span::before{
