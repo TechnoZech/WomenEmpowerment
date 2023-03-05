@@ -262,8 +262,8 @@
 }
 
 .consult, .legal, .local-res {
-    width: 90%;
-    height: 60%;
+    width: 450px;
+    height: 23vh;
     border-radius: 20px;
     background-color: white;
     color:black;
