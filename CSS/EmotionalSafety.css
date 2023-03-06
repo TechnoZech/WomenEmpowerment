@@ -14,14 +14,17 @@
   align-items: center;
 }
 .Emotionalsafety-content {
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   color: #a83e92;
   line-height: 5rem;
+  margin-bottom: -20px;
 }
 
 .Emotionalsafety-img {
 	width: 280px;
 	border-radius: 50px;
+	margin-top: 150px;
+	margin-bottom: 20px;
   }
 .Emotionalsafety-container-2 {
   margin: 0 20%;

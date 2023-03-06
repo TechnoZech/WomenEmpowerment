@@ -24,9 +24,10 @@
     margin-bottom: 55px;
 }
 .Safetyplanning-content{
-  font-size: 70px;
+  font-size: 40px;
   color: #a83e92;
-  line-height: 4rem;
+  /* line-height: 4rem; */
+  margin-bottom: 10px;
 }
 /* .Internetsafety-content span {
   font-size: 48px;
