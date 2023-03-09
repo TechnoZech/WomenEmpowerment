@@ -59,8 +59,11 @@
     margin-left: 25%;
     font-size: 25px;
     margin-bottom: 25px;
+    list-style-image: linear-gradient(#a83e92,#a83e92);
   } 
-
+  .Safetyplanning-container-2 b{
+    color:#a83e92;
+  }
    /* ---------Footer CSS -------------- */
 
 .footer{
