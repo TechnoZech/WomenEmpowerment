@@ -17,11 +17,11 @@
 	height: 130px;
 	display: flex;
 	border-bottom: 2px solid gray;
-	/* border: 2px solid red; */
 }
 .footer .footer-main h3{
 	font-size: 18px;
-	margin-bottom: 3px;
+	margin-bottom: 10px;
+	margin-top: 0;
 }
 .footer .footer-main .contact{
 	width: 30%;
