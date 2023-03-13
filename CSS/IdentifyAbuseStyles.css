@@ -34,7 +34,10 @@
 }
 
 /* <-------------- abuse-container-2 ---------------> */
-
+.abuse-section{
+    background-color: #e6e9f2;
+    
+}
 .abuse-container-2{
     margin: 0 20%;
 }

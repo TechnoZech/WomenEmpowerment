@@ -15,6 +15,7 @@
     height: 90vh;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .physicalSafety-hero-content{
@@ -37,9 +38,13 @@
 
 /* <-------------- physicalSafety-container-2 ---------------> */
 
+.physicalSafety-section-2{
+    background-color: #e6e9f2;
+}
 .physicalSafety-container-2{
     margin: 0 15%;
     text-align: center;
+    padding-top: 80px;
 }
 
 .physicalSafety-container-2 h2{
