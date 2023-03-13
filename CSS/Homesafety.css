@@ -42,6 +42,7 @@
 .main{
     height: 100%;
     width: 100%;
+    /* border: 2px solid black; */
     /* background-color: rgb(24, 213, 213); */
 }
 .header{
@@ -82,6 +83,7 @@
     margin-left: 10%;
     margin-right: 10%;
     cursor: pointer;
+    /* border: 2px solid black; */
 }
 .card1{
   height: 100%;
@@ -124,3 +126,7 @@ h3{
     margin-left: 35px;
 }
 
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 6e90f5648924dba6e5df13cfc0ecc866f03bc86b
