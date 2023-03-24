@@ -30,12 +30,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .leg-text {
     width: 45%;
     height:95%;
-    margin-top: 80px;
+    margin-top: 150px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -58,7 +59,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 80px;
+    margin-top: 150px;
     margin-left: 50px;
 }
 
@@ -69,14 +70,14 @@
 }
 
 .leg-subtitle {
-    width: 30%;
+    width: 40%;
     height: 200px;
     margin: 0 10%;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .leg-contact {
@@ -166,8 +167,8 @@
 
 .protect {
     height:300px ;
-    width: 1000px;
-    margin-left: -40px;
+    width: 100%;
+    /* margin-left: -40px; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -205,12 +206,55 @@
     height: 100%;
     display: flex;
     flex-direction: column;
+    margin-left: 95px;
     justify-content: space-between;
     /* margin-right: 200px; */
     
 }
 
 .pro-info h3 {
+    text-decoration: underline;
+    color: #a83e92;
+}
+
+.pro-pic-middle {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-right: -20px;
+    margin-left: 95px;
+
+}
+
+.pro-pic img {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    border: 5px solid #a83e92;
+}
+
+.pro-image-middle {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    border: 5px solid #a83e92;
+    margin-left: -20px;
+}
+
+
+.pro-info-middle {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* margin-right: 200px; */
+    
+}
+
+.pro-info-middle h3 {
     text-decoration: underline;
     color: #a83e92;
 }
